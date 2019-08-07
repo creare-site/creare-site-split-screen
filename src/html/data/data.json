@@ -4,8 +4,7 @@
     "design"  : "Split-screen by Pixelarity",
 
     "links" : {
-        "product_live"   : "https://appseed.us/apps/jamstack/jamstack-split-screen-pixelarity", 
-        "product"        : "https://github.com/app-generator/priv-jamstack-split-screen",
+        "product"        : "https://appseed.us/apps/jamstack/jamstack-split-screen-pixelarity", 
         "github"         : "https://github.com/app-generator/priv-jamstack-split-screen",
         "docs"           : "https://docs.appseed.us/apps/jamstack/jamstack-split-screen-pixelarity/",
         "appseed"        : "https://appseed.us",      

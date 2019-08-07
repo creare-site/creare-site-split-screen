@@ -1,7 +1,7 @@
 {
     "name": "jamstack-split-screen",
     "version": "0.0.1",
-    "description": "JAMstack - Blazing fast app with SplitScreen by Pixelarity",
+    "description": "JAMstack - Blazing fast app with Split Screen design by Pixelarity",
     "main": "Gruntfile.js",
     "devDependencies": {
         "autoprefixer": "^6.3.6",
