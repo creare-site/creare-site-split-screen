@@ -32,7 +32,7 @@ This is a commercial application, to use it you need to buy a license. Please ac
 
 <br />
 
-## JAMstack related Resources
+## [JAMstack](https://jamstack.org/) resources
 
 - Blog Articles related to [JAMstack](https://blog.appseed.us/tag/jamstack/)
 - [What is JAMstack](https://blog.appseed.us/what-is-jamstack/) - comprehensive article about JAMstack
