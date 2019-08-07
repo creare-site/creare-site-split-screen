@@ -1,6 +1,6 @@
 # [JAMstack Split-Screen](https://appseed.us/apps/jamstack/jamstack-split-screen-pixelarity)
 
-Blazing fast application coded by AppSeed in JAMstack pattern on top of Split-screen Pixelarity design.
+Blazing fast application coded by AppSeed in [JAMstack](https://jamstack.org/) pattern on top of Split-screen Pixelarity design.
 
 <br />
 
