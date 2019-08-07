@@ -1,4 +1,4 @@
-# [JAMstack - Split-screen](https://jamstack-split-screen.appseed.us/)
+# [JAMstack Split-Screen](https://appseed.us/apps/jamstack/jamstack-split-screen-pixelarity)
 
 Blazing fast application coded by AppSeed in JAMstack pattern on top of Split-screen Pixelarity design.
 
@@ -15,13 +15,14 @@ This is a commercial application, to use it you need to buy a license. Please ac
 <br />
 
 ## App Links
----
- - [Jamstack Split-screen demo](https://jamstack-split-screen.appseed.us/)
- - [Split-screen](https://pixelarity.com/split-screen) - the design provided by Pixelarity 
+
+- [Jamstack Split-Screen](https://jamstack-split-screen.appseed.us/) - live demo
+- [Pixelarity Split-screen](https://pixelarity.com/split-screen) - the design provided by Pixelarity 
 
 <br />
 
 ## How to use it
+
 - Clone this repo `git clone https://github.com/app-generator/priv-jamstack-split-screen.git`
 - change directory to `priv-jamstack-split-screen`
 - `yarn` - install deps
@@ -32,6 +33,7 @@ This is a commercial application, to use it you need to buy a license. Please ac
 <br />
 
 ## JAMstack related Resources
+
 - Blog Articles related to [JAMstack](https://blog.appseed.us/tag/jamstack/)
 - [What is JAMstack](https://blog.appseed.us/what-is-jamstack/) - comprehensive article about JAMstack
 - [JAMstack.org](https://jamstack.org/)
@@ -40,4 +42,4 @@ This is a commercial application, to use it you need to buy a license. Please ac
 <br />
 
 ---
-[JAMstack - Split-screen](https://jamstack-split-screen.appseed.us/) - provided by **AppSeed**
+[JAMstack Split-Screen](https://appseed.us/apps/jamstack/jamstack-split-screen-pixelarity) - provided by **AppSeed**
