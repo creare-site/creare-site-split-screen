@@ -1,20 +1,14 @@
 {
-    "copy"    : "AppSeed", 
-    "email"   : "support@appseed.us",
-    "design"  : "Split-screen by Pixelarity",
+    "copy"    : "WebsiteMarket", 
+    "email"   : "hello@websitemarket.ro",
+    "design"  : "Split Screen | Pixelarity",
 
     "links" : {
-        "product"        : "https://appseed.us/apps/jamstack/jamstack-split-screen-pixelarity", 
-        "github"         : "https://github.com/app-generator/priv-jamstack-split-screen",
-        "docs"           : "https://docs.appseed.us/apps/jamstack/jamstack-split-screen-pixelarity/",
-        "appseed"        : "https://appseed.us",      
-        "generator"      : "https://appseed.us/app-generator",
-        "blog"           : "https://blog.appseed.us/",
-        "facebook"       : "https://facebook.com/webappseed",
-        "twitter"        : "https://twitter.com/webappseed",
-        "instagram"      : "https://instagram.com/webappseed",
-        "support"        : "https://appseed.us/support",
-        "discord"        : "https://discord.gg/fZC6hup"
+        "product"        : "https://websitemarket.ro", 
+        "github"         : "https://github.com/creare-site/creare-site-split-screen",
+        "facebook"       : "https://www.facebook.com/Websitemarketro/",
+        "twitter"        : "https://twitter.com/websitemarketro",
+        "support"        : "hello@websitemarket.ro"
     }, 
 
     "LAST_KEY" : "NA"
